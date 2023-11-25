@@ -14,4 +14,4 @@ Brady Brelinski,
 Founding Member of the Manhattan Chocolate Society 
 #
 Link to my Tableau Storyboard: Au Chaocolat! A Chocolate Bar Rating Anaysis
-[https://public.tableau.com/shared/9YPRWKRRW?:display_count=n&:origin=viz_share_link]
+[https://public.tableau.com/views/AuChocolatAnalysisDashboard/Story1?:language=en-US&:display_count=n&:origin=viz_share_link]
