@@ -1,4 +1,4 @@
-# Au-Chocolate-A-Chocolate-Bar-Rating-Analysis
+# Au-Chocolat-A-Chocolate-Bar-Rating-Analysis
 
 Passion project about CHOCOLATE! using Python, Tableau, and open source data
 
